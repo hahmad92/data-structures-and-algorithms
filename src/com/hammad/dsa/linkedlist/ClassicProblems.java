@@ -155,9 +155,7 @@ public class ClassicProblems {
     }
 
     public ListNode middleNode(ListNode head) {
-        if(head = )
-        ListNode slow = head;
-        ListNode fast = head.next;
+        return head;
 
     }
 

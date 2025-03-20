@@ -1,4 +1,4 @@
-package com.hammad.dsa.maps;
+package com.hammad.datastructures.maps;
 
 import java.util.HashMap;
 import java.util.Map;

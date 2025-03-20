@@ -1,10 +1,7 @@
-package com.hammad.dsa.linkedlist;
+package com.hammad.datastructures.linkedlist;
 
-
-import com.hammad.algorithm.dp.NumArray;
 
 import java.util.HashSet;
-import java.util.List;
 
 class ListNode {
     int val;

@@ -1,4 +1,4 @@
-package com.hammad.dsa.array;
+package com.hammad.datastructures.array;
 
 import java.util.*;
 

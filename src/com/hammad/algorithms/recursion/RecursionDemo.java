@@ -1,4 +1,4 @@
-package com.hammad.algorithm.recursion;
+package com.hammad.algorithms.recursion;
 
 public class RecursionDemo {
 

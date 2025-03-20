@@ -1,4 +1,4 @@
-package com.hammad.dsa.trees;
+package com.hammad.datastructures.trees;
 
 public class TreesDemo {
 

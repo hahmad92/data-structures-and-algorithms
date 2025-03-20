@@ -1,6 +1,6 @@
-package com.hammad.dsa.linkedlist;
+package com.hammad.datastructures.linkedlist;
 
-import com.hammad.dsa.array.ArraysQuestions;
+import com.hammad.datastructures.array.ArraysQuestions;
 
 public class ClassicProblems {
 

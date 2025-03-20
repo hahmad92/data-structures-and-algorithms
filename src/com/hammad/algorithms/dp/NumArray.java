@@ -1,4 +1,4 @@
-package com.hammad.algorithm.dp;
+package com.hammad.algorithms.dp;
 
 public class NumArray {
     int[] sumArray;

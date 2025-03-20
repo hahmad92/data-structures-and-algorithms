@@ -1,4 +1,4 @@
-package com.hammad.dsa.array.in.place.oprations;
+package com.hammad.datastructures.array.in.place.oprations;
 
 public class ArrayInPlaceOpDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.hammad.dsa.algoexpert.p1;
+package com.hammad.datastructures.algoexpert.p1;
 
 import java.util.Arrays;
 import java.util.HashMap;
